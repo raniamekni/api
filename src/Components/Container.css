@@ -1,0 +1,12 @@
+.All{
+color:rgba(236, 25, 10, 0.925);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.Post{
+    color: rgb(233, 23, 23);
+}
+.Title{
+    color: rgb(17, 13, 17);
+}
